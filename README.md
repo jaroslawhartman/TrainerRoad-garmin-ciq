@@ -1,13 +1,12 @@
-
 # Background
 
 This small ConnectIQ Widget for Garmin Smart Watches allows you to check your TrainerRoad workout.
 
-![Watch](images/watch1.png)
+![Watch](images/watch1.png | width=100)
 
 # Navigation
 
-After installation should be visible in your Widgets carousel. Single tap to enable an option to swipe up or down for next/previous day. Another single tap to jump to the workout details. 
+After installation should be visible in your Widgets carousel. Single tap to enable an option to swipe up or down for next/previous day. Another single tap to jump to the workout details.
 
 ![Flow Chart](images/FlowChart.png)
 
@@ -36,7 +35,7 @@ Connect the watch to your PC using USB cable and copy into `GARMIN/APP` folder.
 
 # Settings
 
-**Note:** Privacy settings in [TranerRoad](https://www.trainerroad.com/app/profile/rider-information) must be set to *Public*:
+**Note:** Privacy settings in [TrainerRoad](https://www.trainerroad.com/app/profile/rider-information) must be set to *Public*:
 
 ![](images/privacy.png)
 
