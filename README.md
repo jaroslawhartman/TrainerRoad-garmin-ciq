@@ -2,7 +2,9 @@
 
 This small ConnectIQ Widget for Garmin Smart Watches allows you to check your TrainerRoad workout.
 
-![Watch](images/watch1.png | width=100)
+<p align="center">
+    <img src="images/watch1.png" width="400">
+</p>
 
 # Navigation
 
