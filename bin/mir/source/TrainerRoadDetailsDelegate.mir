@@ -1,0 +1,45 @@
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 1; ]
+import Toybox.Lang;
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 2; ]
+import Toybox.WatchUi;
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 5; ]
+class TrainerRoadDetailsDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    //! Constructor
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 7; ]
+    public
+    function initialize() as Void {
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsDelegate_mc_7_33_start:
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" 8 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsDelegate_mc_7_33_stop:
+    }
+    //! Handle back behavior
+    //! @return true if handled, false otherwise
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 13; ]
+    public
+    function onBack() as Boolean {
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsDelegate_mc_13_40_start:
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" 14 8 ]
+        %tmp.1 = getm $.Toybox.WatchUi;
+        %tmp.2 = getv function %tmp.1 :popView;
+        %tmp.3 = getm $.Toybox.WatchUi;
+        %tmp.4 = getv %tmp.3 :SLIDE_IMMEDIATE;
+        invoke %tmp.1 %tmp.2(%tmp.4);
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" 15 8 ]
+        %tmp.5 = true;
+        ret %tmp.5;
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsDelegate_mc_13_40_stop:
+    }
+}
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc"; @line = 1; ]
+<init> {
+}

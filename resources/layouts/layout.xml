@@ -1,0 +1,27 @@
+<layout id="MainLayout">
+    <!-- <bitmap id="icon" x="center" y="2%" filename="../drawables/launcher_icon.png" /> -->
+    <bitmap id="icon" x="center" y="2%" filename="../drawables/launcher_icon.png" />
+    <label id="NameLabel" text="---" x="center" y="15%" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+
+    <label id="DetailLbl1" text="Duration"        x="48%" y="32%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+    <label id="DurationLabel" text="..."          x="53%" y="32%" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+
+    <label id="DetailLbl2" text="Type"            x="48%" y="41%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+    <label id="TextLabel" text="..."              x="53%" y="41%" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+
+    <label id="DetailLbl3" text="Level"           x="48%" y="50%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+    <label id="ProgressionLevelLabel" text="..."  x="53%" y="50%" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+
+    <label id="DetailLbl4" text="TSS"             x="48%" y="59%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+    <label id="TSSLabel" text="..."               x="53%" y="59%" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+
+    <label id="DetailLbl5" text="Kj"              x="48%" y="68%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+    <label id="KjLabel" text="..."                x="53%" y="68%" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
+
+    <!-- <label id="DetailLbl6" text="Day"             x="48%" y="80%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" /> -->
+    <!-- <label id="DateLabel" text="..."              x="53%" y="80%" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" /> -->
+    <label id="NowLabel" text="..."              x="50%" y="83%" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" color="Gfx.COLOR_DK_GRAY" />
+
+
+    <label id="ErrorLabel" text=""  x="center" y="83%" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" color="Gfx.COLOR_RED" />
+</layout>

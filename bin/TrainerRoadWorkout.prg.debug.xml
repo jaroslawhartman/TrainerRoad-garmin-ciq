@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="1" lineNum="7" parent="globals" pc="268435460" symbol="pushTrainerRoadWorkoutView"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="1" lineNum="8" parent="globals" pc="268435470" symbol="pushTrainerRoadWorkoutView"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="2" lineNum="5" parent="globals/TrainerRoadWorkoutApp" pc="268435526" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="3" lineNum="14" parent="globals/TrainerRoadWorkoutApp" pc="268435545" symbol="onStart"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="4" lineNum="29" parent="globals/TrainerRoadWorkoutApp" pc="268435548" symbol="onSettingsChanged"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="4" lineNum="31" parent="globals/TrainerRoadWorkoutApp" pc="268435550" symbol="onSettingsChanged"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="5" lineNum="22" parent="globals/TrainerRoadWorkoutApp" pc="268435574" symbol="getInitialView"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="5" lineNum="23" parent="globals/TrainerRoadWorkoutApp" pc="268435576" symbol="getInitialView"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="5" lineNum="24" parent="globals/TrainerRoadWorkoutApp" pc="268435615" symbol="getInitialView"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="5" lineNum="26" parent="globals/TrainerRoadWorkoutApp" pc="268435662" symbol="getInitialView"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="6" lineNum="9" parent="globals/TrainerRoadWorkoutApp" pc="268435701" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="6" lineNum="10" parent="globals/TrainerRoadWorkoutApp" pc="268435703" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="7" lineNum="18" parent="globals/TrainerRoadWorkoutApp" pc="268435722" symbol="onStop"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="8" lineNum="5" parent="globals/TrainerRoadWorkoutDelegate" pc="268435725" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="9" lineNum="52" parent="globals/TrainerRoadWorkoutDelegate" pc="268435744" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="9" lineNum="53" parent="globals/TrainerRoadWorkoutDelegate" pc="268435746" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="9" lineNum="54" parent="globals/TrainerRoadWorkoutDelegate" pc="268435764" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="9" lineNum="57" parent="globals/TrainerRoadWorkoutDelegate" pc="268435783" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="10" lineNum="28" parent="globals/TrainerRoadWorkoutDelegate" pc="268435786" symbol="onPreviousPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="10" lineNum="29" parent="globals/TrainerRoadWorkoutDelegate" pc="268435788" symbol="onPreviousPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="10" lineNum="30" parent="globals/TrainerRoadWorkoutDelegate" pc="268435807" symbol="onPreviousPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="10" lineNum="31" parent="globals/TrainerRoadWorkoutDelegate" pc="268435833" symbol="onPreviousPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="11" lineNum="12" parent="globals/TrainerRoadWorkoutDelegate" pc="268435836" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="11" lineNum="13" parent="globals/TrainerRoadWorkoutDelegate" pc="268435838" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="11" lineNum="14" parent="globals/TrainerRoadWorkoutDelegate" pc="268435856" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="11" lineNum="15" parent="globals/TrainerRoadWorkoutDelegate" pc="268435866" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="12" lineNum="20" parent="globals/TrainerRoadWorkoutDelegate" pc="268435877" symbol="onNextPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="12" lineNum="21" parent="globals/TrainerRoadWorkoutDelegate" pc="268435879" symbol="onNextPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="12" lineNum="22" parent="globals/TrainerRoadWorkoutDelegate" pc="268435898" symbol="onNextPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="12" lineNum="23" parent="globals/TrainerRoadWorkoutDelegate" pc="268435924" symbol="onNextPage"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="36" parent="globals/TrainerRoadWorkoutDelegate" pc="268435927" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="37" parent="globals/TrainerRoadWorkoutDelegate" pc="268435929" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="38" parent="globals/TrainerRoadWorkoutDelegate" pc="268435946" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="39" parent="globals/TrainerRoadWorkoutDelegate" pc="268435962" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="41" parent="globals/TrainerRoadWorkoutDelegate" pc="268435981" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="42" parent="globals/TrainerRoadWorkoutDelegate" pc="268436013" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="43" parent="globals/TrainerRoadWorkoutDelegate" pc="268436048" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutDelegate.mc" id="13" lineNum="47" parent="globals/TrainerRoadWorkoutDelegate" pc="268436054" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="14" lineNum="35" parent="globals" pc="268436057" symbol="getApp"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutApp.mc" id="14" lineNum="36" parent="globals" pc="268436067" symbol="getApp"/>
+        <entry filename="Rez.mc" id="15" lineNum="1" parent="globals/Rez" pc="268436083" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="16" lineNum="11" parent="globals/TrainerRoadWorkoutView" pc="268436107" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="16" lineNum="13" parent="globals/TrainerRoadWorkoutView" pc="268436125" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="16" lineNum="20" parent="globals/TrainerRoadWorkoutView" pc="268436139" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="17" lineNum="90" parent="globals/TrainerRoadWorkoutView" pc="268436336" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="17" lineNum="91" parent="globals/TrainerRoadWorkoutView" pc="268436340" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="17" lineNum="92" parent="globals/TrainerRoadWorkoutView" pc="268436368" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="17" lineNum="93" parent="globals/TrainerRoadWorkoutView" pc="268436375" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="17" lineNum="94" parent="globals/TrainerRoadWorkoutView" pc="268436392" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="17" lineNum="96" parent="globals/TrainerRoadWorkoutView" pc="268436398" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="18" lineNum="52" parent="globals/TrainerRoadWorkoutView" pc="268436408" symbol="onShow"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="18" lineNum="53" parent="globals/TrainerRoadWorkoutView" pc="268436410" symbol="onShow"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="123" parent="globals/TrainerRoadWorkoutView" pc="268436431" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="125" parent="globals/TrainerRoadWorkoutView" pc="268436435" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="127" parent="globals/TrainerRoadWorkoutView" pc="268436439" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="129" parent="globals/TrainerRoadWorkoutView" pc="268436444" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="131" parent="globals/TrainerRoadWorkoutView" pc="268436459" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="133" parent="globals/TrainerRoadWorkoutView" pc="268436466" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="134" parent="globals/TrainerRoadWorkoutView" pc="268436482" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="138" parent="globals/TrainerRoadWorkoutView" pc="268436533" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="19" lineNum="142" parent="globals/TrainerRoadWorkoutView" pc="268436539" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="147" parent="globals/TrainerRoadWorkoutView" pc="268436541" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="148" parent="globals/TrainerRoadWorkoutView" pc="268436545" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="149" parent="globals/TrainerRoadWorkoutView" pc="268436552" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="151" parent="globals/TrainerRoadWorkoutView" pc="268436556" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="152" parent="globals/TrainerRoadWorkoutView" pc="268436580" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="153" parent="globals/TrainerRoadWorkoutView" pc="268436603" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="154" parent="globals/TrainerRoadWorkoutView" pc="268436622" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="155" parent="globals/TrainerRoadWorkoutView" pc="268436626" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="156" parent="globals/TrainerRoadWorkoutView" pc="268436632" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="157" parent="globals/TrainerRoadWorkoutView" pc="268436651" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="158" parent="globals/TrainerRoadWorkoutView" pc="268436655" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="161" parent="globals/TrainerRoadWorkoutView" pc="268436661" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="162" parent="globals/TrainerRoadWorkoutView" pc="268436667" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="166" parent="globals/TrainerRoadWorkoutView" pc="268436690" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="167" parent="globals/TrainerRoadWorkoutView" pc="268436715" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="20" lineNum="169" parent="globals/TrainerRoadWorkoutView" pc="268436740" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="21" lineNum="43" parent="globals/TrainerRoadWorkoutView" pc="268436743" symbol="onLayout"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="21" lineNum="44" parent="globals/TrainerRoadWorkoutView" pc="268436745" symbol="onLayout"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="21" lineNum="46" parent="globals/TrainerRoadWorkoutView" pc="268436786" symbol="onLayout"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="28" parent="globals/TrainerRoadWorkoutView" pc="268436806" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="29" parent="globals/TrainerRoadWorkoutView" pc="268436810" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="31" parent="globals/TrainerRoadWorkoutView" pc="268436834" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="32" parent="globals/TrainerRoadWorkoutView" pc="268436848" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="35" parent="globals/TrainerRoadWorkoutView" pc="268436852" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="36" parent="globals/TrainerRoadWorkoutView" pc="268436862" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="37" parent="globals/TrainerRoadWorkoutView" pc="268436872" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="38" parent="globals/TrainerRoadWorkoutView" pc="268436908" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="22" lineNum="39" parent="globals/TrainerRoadWorkoutView" pc="268436924" symbol="webReq"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="201" parent="globals/TrainerRoadWorkoutView" pc="268436951" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="202" parent="globals/TrainerRoadWorkoutView" pc="268436955" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="204" parent="globals/TrainerRoadWorkoutView" pc="268436968" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="205" parent="globals/TrainerRoadWorkoutView" pc="268436993" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="206" parent="globals/TrainerRoadWorkoutView" pc="268437023" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="211" parent="globals/TrainerRoadWorkoutView" pc="268437063" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="212" parent="globals/TrainerRoadWorkoutView" pc="268437088" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="215" parent="globals/TrainerRoadWorkoutView" pc="268437113" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="216" parent="globals/TrainerRoadWorkoutView" pc="268437137" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="217" parent="globals/TrainerRoadWorkoutView" pc="268437144" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="23" lineNum="218" parent="globals/TrainerRoadWorkoutView" pc="268437151" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="249" parent="globals/TrainerRoadWorkoutView" pc="268437181" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="250" parent="globals/TrainerRoadWorkoutView" pc="268437185" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="251" parent="globals/TrainerRoadWorkoutView" pc="268437209" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="253" parent="globals/TrainerRoadWorkoutView" pc="268437245" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="254" parent="globals/TrainerRoadWorkoutView" pc="268437263" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="255" parent="globals/TrainerRoadWorkoutView" pc="268437292" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="256" parent="globals/TrainerRoadWorkoutView" pc="268437310" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="257" parent="globals/TrainerRoadWorkoutView" pc="268437333" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="258" parent="globals/TrainerRoadWorkoutView" pc="268437350" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="259" parent="globals/TrainerRoadWorkoutView" pc="268437368" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="260" parent="globals/TrainerRoadWorkoutView" pc="268437391" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="261" parent="globals/TrainerRoadWorkoutView" pc="268437395" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="262" parent="globals/TrainerRoadWorkoutView" pc="268437415" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="263" parent="globals/TrainerRoadWorkoutView" pc="268437438" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="270" parent="globals/TrainerRoadWorkoutView" pc="268437521" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="273" parent="globals/TrainerRoadWorkoutView" pc="268437537" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="274" parent="globals/TrainerRoadWorkoutView" pc="268437561" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="278" parent="globals/TrainerRoadWorkoutView" pc="268437594" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="24" lineNum="279" parent="globals/TrainerRoadWorkoutView" pc="268437614" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="25" lineNum="86" parent="globals/TrainerRoadWorkoutView" pc="268437631" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;saveWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="25" lineNum="87" parent="globals/TrainerRoadWorkoutView" pc="268437633" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;saveWorkout&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="222" parent="globals/TrainerRoadWorkoutView" pc="268437663" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="223" parent="globals/TrainerRoadWorkoutView" pc="268437667" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="226" parent="globals/TrainerRoadWorkoutView" pc="268437680" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="228" parent="globals/TrainerRoadWorkoutView" pc="268437703" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="229" parent="globals/TrainerRoadWorkoutView" pc="268437727" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="230" parent="globals/TrainerRoadWorkoutView" pc="268437758" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="231" parent="globals/TrainerRoadWorkoutView" pc="268437765" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="232" parent="globals/TrainerRoadWorkoutView" pc="268437772" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="237" parent="globals/TrainerRoadWorkoutView" pc="268437849" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="238" parent="globals/TrainerRoadWorkoutView" pc="268437871" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="240" parent="globals/TrainerRoadWorkoutView" pc="268437874" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="26" lineNum="241" parent="globals/TrainerRoadWorkoutView" pc="268437888" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="172" parent="globals/TrainerRoadWorkoutView" pc="268437909" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="173" parent="globals/TrainerRoadWorkoutView" pc="268437913" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="174" parent="globals/TrainerRoadWorkoutView" pc="268437920" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="176" parent="globals/TrainerRoadWorkoutView" pc="268437930" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="177" parent="globals/TrainerRoadWorkoutView" pc="268437949" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="178" parent="globals/TrainerRoadWorkoutView" pc="268437970" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="181" parent="globals/TrainerRoadWorkoutView" pc="268437974" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="182" parent="globals/TrainerRoadWorkoutView" pc="268437993" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="185" parent="globals/TrainerRoadWorkoutView" pc="268438011" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="186" parent="globals/TrainerRoadWorkoutView" pc="268438030" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="189" parent="globals/TrainerRoadWorkoutView" pc="268438085" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="190" parent="globals/TrainerRoadWorkoutView" pc="268438104" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="194" parent="globals/TrainerRoadWorkoutView" pc="268438159" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="195" parent="globals/TrainerRoadWorkoutView" pc="268438186" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="27" lineNum="196" parent="globals/TrainerRoadWorkoutView" pc="268438204" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="28" lineNum="22" parent="globals/TrainerRoadWorkoutView" pc="268438256" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="28" lineNum="23" parent="globals/TrainerRoadWorkoutView" pc="268438258" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="28" lineNum="24" parent="globals/TrainerRoadWorkoutView" pc="268438276" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="28" lineNum="25" parent="globals/TrainerRoadWorkoutView" pc="268438286" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="57" parent="globals/TrainerRoadWorkoutView" pc="268438337" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="63" parent="globals/TrainerRoadWorkoutView" pc="268438339" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="66" parent="globals/TrainerRoadWorkoutView" pc="268438359" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="68" parent="globals/TrainerRoadWorkoutView" pc="268438379" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="69" parent="globals/TrainerRoadWorkoutView" pc="268438401" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="71" parent="globals/TrainerRoadWorkoutView" pc="268438481" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="72" parent="globals/TrainerRoadWorkoutView" pc="268438493" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="73" parent="globals/TrainerRoadWorkoutView" pc="268438515" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="74" parent="globals/TrainerRoadWorkoutView" pc="268438572" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="29" lineNum="75" parent="globals/TrainerRoadWorkoutView" pc="268438629" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="100" parent="globals/TrainerRoadWorkoutView" pc="268438690" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="101" parent="globals/TrainerRoadWorkoutView" pc="268438694" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="102" parent="globals/TrainerRoadWorkoutView" pc="268438704" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="103" parent="globals/TrainerRoadWorkoutView" pc="268438720" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="116" parent="globals/TrainerRoadWorkoutView" pc="268438730" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="118" parent="globals/TrainerRoadWorkoutView" pc="268438737" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutView.mc" id="30" lineNum="120" parent="globals/TrainerRoadWorkoutView" pc="268438820" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" id="31" lineNum="5" parent="globals/TrainerRoadDetailsDelegate" pc="268438823" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" id="32" lineNum="13" parent="globals/TrainerRoadDetailsDelegate" pc="268438842" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" id="32" lineNum="14" parent="globals/TrainerRoadDetailsDelegate" pc="268438844" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" id="32" lineNum="15" parent="globals/TrainerRoadDetailsDelegate" pc="268438865" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" id="33" lineNum="7" parent="globals/TrainerRoadDetailsDelegate" pc="268438868" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsDelegate.mc" id="33" lineNum="8" parent="globals/TrainerRoadDetailsDelegate" pc="268438870" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="34" lineNum="15" parent="globals/TrainerRoadWorkoutWebReq" pc="268438889" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="34" lineNum="16" parent="globals/TrainerRoadWorkoutWebReq" pc="268438891" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="64" parent="globals/TrainerRoadWorkoutWebReq" pc="268438902" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="65" parent="globals/TrainerRoadWorkoutWebReq" pc="268438906" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="66" parent="globals/TrainerRoadWorkoutWebReq" pc="268438940" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="67" parent="globals/TrainerRoadWorkoutWebReq" pc="268438951" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="69" parent="globals/TrainerRoadWorkoutWebReq" pc="268438974" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="73" parent="globals/TrainerRoadWorkoutWebReq" pc="268438987" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="74" parent="globals/TrainerRoadWorkoutWebReq" pc="268439006" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="76" parent="globals/TrainerRoadWorkoutWebReq" pc="268439016" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="35" lineNum="77" parent="globals/TrainerRoadWorkoutWebReq" pc="268439040" symbol="onReceive"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="20" parent="globals/TrainerRoadWorkoutWebReq" pc="268439081" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="21" parent="globals/TrainerRoadWorkoutWebReq" pc="268439085" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="28" parent="globals/TrainerRoadWorkoutWebReq" pc="268439133" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="29" parent="globals/TrainerRoadWorkoutWebReq" pc="268439213" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="38" parent="globals/TrainerRoadWorkoutWebReq" pc="268439289" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="39" parent="globals/TrainerRoadWorkoutWebReq" pc="268439369" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="48" parent="globals/TrainerRoadWorkoutWebReq" pc="268439451" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="49" parent="globals/TrainerRoadWorkoutWebReq" pc="268439479" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadWorkoutWebReq.mc" id="36" lineNum="52" parent="globals/TrainerRoadWorkoutWebReq" pc="268439521" symbol="makeRequest"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="37" lineNum="5" parent="globals/TrainerRoadDetailsView" pc="268439588" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="39" lineNum="15" parent="globals/TrainerRoadDetailsView" pc="268439607" symbol="onLayout"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="40" lineNum="9" parent="globals/TrainerRoadDetailsView" pc="268439610" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="40" lineNum="10" parent="globals/TrainerRoadDetailsView" pc="268439612" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="40" lineNum="11" parent="globals/TrainerRoadDetailsView" pc="268439622" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="42" lineNum="26" parent="globals/TrainerRoadDetailsView" pc="268439641" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="42" lineNum="32" parent="globals/TrainerRoadDetailsView" pc="268439643" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="42" lineNum="33" parent="globals/TrainerRoadDetailsView" pc="268439673" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" id="42" lineNum="36" parent="globals/TrainerRoadDetailsView" pc="268439699" symbol="onUpdate"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="43" lineNum="15" parent="globals/TrainerRoadDetailsMenu" pc="268439720" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="44" lineNum="23" parent="globals/TrainerRoadDetailsMenu" pc="268439739" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="44" lineNum="24" parent="globals/TrainerRoadDetailsMenu" pc="268439741" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="44" lineNum="25" parent="globals/TrainerRoadDetailsMenu" pc="268439751" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="44" lineNum="26" parent="globals/TrainerRoadDetailsMenu" pc="268439798" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="44" lineNum="27" parent="globals/TrainerRoadDetailsMenu" pc="268439835" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="45" lineNum="32" parent="globals/TrainerRoadDetailsMenu" pc="268439877" symbol="drawTitle"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="45" lineNum="33" parent="globals/TrainerRoadDetailsMenu" pc="268439879" symbol="drawTitle"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="45" lineNum="34" parent="globals/TrainerRoadDetailsMenu" pc="268439901" symbol="drawTitle"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="45" lineNum="35" parent="globals/TrainerRoadDetailsMenu" pc="268439918" symbol="drawTitle"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="45" lineNum="36" parent="globals/TrainerRoadDetailsMenu" pc="268439980" symbol="drawTitle"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="45" lineNum="38" parent="globals/TrainerRoadDetailsMenu" pc="268439997" symbol="drawTitle"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="46" lineNum="44" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440049" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="47" lineNum="58" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440068" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="47" lineNum="59" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440070" symbol="onBack"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="48" lineNum="47" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440092" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="48" lineNum="48" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440094" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="49" lineNum="53" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440113" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="49" lineNum="54" parent="globals/TrainerRoadDetailsMenuDelegate" pc="268440115" symbol="onSelect"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="50" lineNum="65" parent="globals/TrainerRoadDetailsMenuItem" pc="268440132" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="51" lineNum="73" parent="globals/TrainerRoadDetailsMenuItem" pc="268440151" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="51" lineNum="74" parent="globals/TrainerRoadDetailsMenuItem" pc="268440153" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="51" lineNum="75" parent="globals/TrainerRoadDetailsMenuItem" pc="268440179" symbol="initialize"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="52" lineNum="106" parent="globals/TrainerRoadDetailsMenuItem" pc="268440190" symbol="draw"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="52" lineNum="109" parent="globals/TrainerRoadDetailsMenuItem" pc="268440194" symbol="draw"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="52" lineNum="111" parent="globals/TrainerRoadDetailsMenuItem" pc="268440217" symbol="draw"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="52" lineNum="112" parent="globals/TrainerRoadDetailsMenuItem" pc="268440239" symbol="draw"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="78" parent="globals/TrainerRoadDetailsMenuItem" pc="268440295" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="79" parent="globals/TrainerRoadDetailsMenuItem" pc="268440299" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="92" parent="globals/TrainerRoadDetailsMenuItem" pc="268440346" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="87" parent="globals/TrainerRoadDetailsMenuItem" pc="268440346" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="93" parent="globals/TrainerRoadDetailsMenuItem" pc="268440370" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="95" parent="globals/TrainerRoadDetailsMenuItem" pc="268440436" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="96" parent="globals/TrainerRoadDetailsMenuItem" pc="268440443" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="99" parent="globals/TrainerRoadDetailsMenuItem" pc="268440489" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="53" lineNum="101" parent="globals/TrainerRoadDetailsMenuItem" pc="268440555" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="54" lineNum="7" parent="globals" pc="268440585" symbol="pushTrainerRoadDetailsMenu"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="54" lineNum="8" parent="globals" pc="268440597" symbol="pushTrainerRoadDetailsMenu"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="54" lineNum="9" parent="globals" pc="268440633" symbol="pushTrainerRoadDetailsMenu"/>
+        <entry filename="/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsMenu.mc" id="54" lineNum="10" parent="globals" pc="268440674" symbol="pushTrainerRoadDetailsMenu"/>
+        <entry filename="Rez.mc" id="55" lineNum="19" parent="globals/Rez/Layouts" pc="268440720" symbol="DetailsLayout"/>
+        <entry filename="Rez.mc" id="55" lineNum="21" parent="globals/Rez/Layouts" pc="268440732" symbol="DetailsLayout"/>
+        <entry filename="Rez.mc" id="55" lineNum="22" parent="globals/Rez/Layouts" pc="268440837" symbol="DetailsLayout"/>
+        <entry filename="Rez.mc" id="55" lineNum="23" parent="globals/Rez/Layouts" pc="268440874" symbol="DetailsLayout"/>
+        <entry filename="Rez.mc" id="55" lineNum="25" parent="globals/Rez/Layouts" pc="268441039" symbol="DetailsLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="34" parent="globals/Rez/Layouts" pc="268441066" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="36" parent="globals/Rez/Layouts" pc="268441078" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="37" parent="globals/Rez/Layouts" pc="268441183" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="38" parent="globals/Rez/Layouts" pc="268441220" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="39" parent="globals/Rez/Layouts" pc="268441345" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="40" parent="globals/Rez/Layouts" pc="268441470" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="41" parent="globals/Rez/Layouts" pc="268441595" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="42" parent="globals/Rez/Layouts" pc="268441720" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="43" parent="globals/Rez/Layouts" pc="268441845" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="44" parent="globals/Rez/Layouts" pc="268441970" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="45" parent="globals/Rez/Layouts" pc="268442095" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="46" parent="globals/Rez/Layouts" pc="268442220" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="47" parent="globals/Rez/Layouts" pc="268442345" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="48" parent="globals/Rez/Layouts" pc="268442470" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="49" parent="globals/Rez/Layouts" pc="268442595" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="50" parent="globals/Rez/Layouts" pc="268442720" symbol="MainLayout"/>
+        <entry filename="Rez.mc" id="56" lineNum="52" parent="globals/Rez/Layouts" pc="268442832" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="46" symbol="&lt;globals/TrainerRoadDetailsView/&lt;&gt;_description&gt;"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8390740" method="true" symbol="drawTitle"/>
+        <entry id="57" method="true" symbol="MainLayout"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="28" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;_prevIndex&gt;"/>
+        <entry id="16" object="true" symbol="TrainerRoadWorkoutView"/>
+        <entry id="12" object="true" symbol="TrainerRoadDetailsMenuItem"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="27" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;_index&gt;"/>
+        <entry id="52" method="true" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="14" object="true" symbol="TrainerRoadWorkoutApp"/>
+        <entry id="13" object="true" symbol="TrainerRoadDetailsView"/>
+        <entry field="true" id="58" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry field="true" id="30" symbol="_workout"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry field="true" id="32" symbol="description"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="31" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="33" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="11" object="true" symbol="TrainerRoadDetailsMenuDelegate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="56" method="true" symbol="DetailsLayout"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry field="true" id="34" symbol="initial"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="25" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="29" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;_webReq&gt;"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="54" symbol="LoadingIcon"/>
+        <entry id="10" object="true" symbol="TrainerRoadDetailsMenu"/>
+        <entry id="45" method="true" symbol="makeRequest"/>
+        <entry id="19" method="true" symbol="pushTrainerRoadWorkoutView"/>
+        <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="48" symbol="&lt;globals/TrainerRoadDetailsMenu/&lt;&gt;_icon&gt;"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="17" object="true" symbol="TrainerRoadWorkoutWebReq"/>
+        <entry field="true" id="44" symbol="&lt;globals/TrainerRoadWorkoutWebReq/&lt;&gt;_now&gt;"/>
+        <entry field="true" id="43" symbol="&lt;globals/TrainerRoadWorkoutWebReq/&lt;&gt;_notify&gt;"/>
+        <entry field="true" id="49" symbol="&lt;globals/TrainerRoadDetailsMenu/&lt;&gt;_iconOffset&gt;"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="35" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="36" method="true" symbol="onReceive"/>
+        <entry id="9" object="true" symbol="TrainerRoadDetailsDelegate"/>
+        <entry id="39" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="47" symbol="&lt;globals/TrainerRoadDetailsView/&lt;&gt;_descriptionLabel&gt;"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="53" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="55" symbol="icon"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="51" symbol="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;_description&gt;"/>
+        <entry field="true" id="21" symbol="_view"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8391796" symbol="titleItemHeight"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="23" symbol="&lt;globals/TrainerRoadWorkoutDelegate/&lt;&gt;_view&gt;"/>
+        <entry id="41" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;"/>
+        <entry id="18" method="true" symbol="pushTrainerRoadDetailsMenu"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="37" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;"/>
+        <entry id="38" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;saveWorkout&gt;"/>
+        <entry id="42" method="true" symbol="webReq"/>
+        <entry id="24" module="true" symbol="Layouts"/>
+        <entry field="true" id="50" symbol="&lt;globals/TrainerRoadDetailsMenu/&lt;&gt;_name&gt;"/>
+        <entry field="true" id="22" symbol="&lt;globals/TrainerRoadWorkoutDelegate/&lt;&gt;_index&gt;"/>
+        <entry field="true" id="20" symbol="_delegate"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="40" method="true" symbol="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;"/>
+        <entry field="true" id="26" symbol="FIELDS"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="15" object="true" symbol="TrainerRoadWorkoutDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435876" name="index" stackId="1" startPc="268435836"/>
+        <entry arg="true" endPc="268435876" name="view" stackId="2" startPc="268435836"/>
+        <entry endPc="268436406" name="workout" stackId="1" startPc="268436340"/>
+        <entry arg="true" endPc="268436540" name="str" stackId="1" startPc="268436431"/>
+        <entry arg="true" endPc="268436540" name="oldString" stackId="2" startPc="268436431"/>
+        <entry arg="true" endPc="268436540" name="newString" stackId="3" startPc="268436431"/>
+        <entry endPc="268436540" name="result" stackId="4" startPc="268436435"/>
+        <entry endPc="268436535" name="index" stackId="5" startPc="268436444"/>
+        <entry endPc="268436529" name="index2" stackId="6" startPc="268436466"/>
+        <entry arg="true" endPc="268436742" name="text" stackId="1" startPc="268436541"/>
+        <entry endPc="268436742" name="result" stackId="2" startPc="268436545"/>
+        <entry endPc="268436742" name="remove" stackId="3" startPc="268436545"/>
+        <entry endPc="268436689" name="i" stackId="4" startPc="268436580"/>
+        <entry endPc="268436676" name="character" stackId="5" startPc="268436580"/>
+        <entry arg="true" endPc="268436805" name="dc" stackId="1" startPc="268436743"/>
+        <entry arg="true" endPc="268436950" name="index" stackId="1" startPc="268436806"/>
+        <entry endPc="268436949" name="icon" stackId="2" startPc="268436810"/>
+        <entry arg="true" endPc="268437180" name="workout" stackId="1" startPc="268436951"/>
+        <entry endPc="268437179" name="keys" stackId="2" startPc="268436955"/>
+        <entry endPc="268437059" name="i" stackId="3" startPc="268437023"/>
+        <entry endPc="268437179" name="i" stackId="4" startPc="268437137"/>
+        <entry endPc="268437166" name="key" stackId="5" startPc="268437137"/>
+        <entry endPc="268437166" name="value" stackId="6" startPc="268437137"/>
+        <entry arg="true" endPc="268437630" name="args" stackId="1" startPc="268437181"/>
+        <entry endPc="268437629" name="icon" stackId="2" startPc="268437185"/>
+        <entry endPc="268437590" name="workouts" stackId="3" startPc="268437368"/>
+        <entry endPc="268437590" name="i" stackId="4" startPc="268437561"/>
+        <entry arg="true" endPc="268437662" name="workout" stackId="1" startPc="268437631"/>
+        <entry arg="true" endPc="268437908" name="workout" stackId="1" startPc="268437663"/>
+        <entry endPc="268437907" name="keys" stackId="2" startPc="268437667"/>
+        <entry endPc="268437907" name="i" stackId="3" startPc="268437727"/>
+        <entry endPc="268437891" name="key" stackId="4" startPc="268437758"/>
+        <entry endPc="268437891" name="value" stackId="5" startPc="268437758"/>
+        <entry arg="true" endPc="268438255" name="key" stackId="1" startPc="268437909"/>
+        <entry arg="true" endPc="268438255" name="value" stackId="2" startPc="268437909"/>
+        <entry endPc="268438254" name="_label" stackId="3" startPc="268437913"/>
+        <entry arg="true" endPc="268438336" name="index" stackId="1" startPc="268438256"/>
+        <entry arg="true" endPc="268438689" name="dc" stackId="1" startPc="268438337"/>
+        <entry arg="true" endPc="268438822" name="val" stackId="1" startPc="268438690"/>
+        <entry endPc="268438822" name="H" stackId="2" startPc="268438694"/>
+        <entry endPc="268438822" name="M" stackId="3" startPc="268438694"/>
+        <entry endPc="268438822" name="S" stackId="4" startPc="268438694"/>
+        <entry endPc="268438822" name="fmt" stackId="5" startPc="268438694"/>
+        <entry endPc="268438822" name="s" stackId="6" startPc="268438694"/>
+        <entry arg="true" endPc="268438901" name="handler" stackId="1" startPc="268438889"/>
+        <entry arg="true" endPc="268439080" name="responseCode" stackId="1" startPc="268438902"/>
+        <entry arg="true" endPc="268439080" name="data" stackId="2" startPc="268438902"/>
+        <entry endPc="268439079" name="response" stackId="3" startPc="268438974"/>
+        <entry arg="true" endPc="268439587" name="index" stackId="1" startPc="268439081"/>
+        <entry endPc="268439586" name="options" stackId="2" startPc="268439085"/>
+        <entry endPc="268439586" name="today" stackId="3" startPc="268439085"/>
+        <entry endPc="268439586" name="dateString" stackId="4" startPc="268439085"/>
+        <entry endPc="268439586" name="username" stackId="5" startPc="268439085"/>
+        <entry arg="true" endPc="268439640" name="description" stackId="1" startPc="268439610"/>
+        <entry arg="true" endPc="268439719" name="dc" stackId="1" startPc="268439641"/>
+        <entry arg="true" endPc="268439876" name="name" stackId="1" startPc="268439739"/>
+        <entry arg="true" endPc="268439876" name="itemHeight" stackId="2" startPc="268439739"/>
+        <entry arg="true" endPc="268439876" name="backgroundColor" stackId="3" startPc="268439739"/>
+        <entry arg="true" endPc="268440048" name="dc" stackId="1" startPc="268439877"/>
+        <entry arg="true" endPc="268440131" name="item" stackId="1" startPc="268440113"/>
+        <entry arg="true" endPc="268440189" name="id" stackId="1" startPc="268440151"/>
+        <entry arg="true" endPc="268440189" name="description" stackId="2" startPc="268440151"/>
+        <entry arg="true" endPc="268440294" name="dc" stackId="1" startPc="268440190"/>
+        <entry endPc="268440293" name="formattedDescription" stackId="2" startPc="268440194"/>
+        <entry arg="true" endPc="268440584" name="dc" stackId="1" startPc="268440295"/>
+        <entry arg="true" endPc="268440584" name="text" stackId="2" startPc="268440295"/>
+        <entry endPc="268440584" name="fonts" stackId="3" startPc="268440299"/>
+        <entry endPc="268440584" name="result" stackId="4" startPc="268440299"/>
+        <entry endPc="268440488" name="i" stackId="5" startPc="268440370"/>
+        <entry arg="true" endPc="268440719" name="name" stackId="1" startPc="268440585"/>
+        <entry arg="true" endPc="268440719" name="description" stackId="2" startPc="268440585"/>
+        <entry endPc="268440718" name="customMenu" stackId="3" startPc="268440597"/>
+        <entry arg="true" endPc="268441065" name="dc" stackId="1" startPc="268440720"/>
+        <entry endPc="268441065" name="rez_cmp_local_bitmap_icon" stackId="2" startPc="268440732"/>
+        <entry endPc="268441065" name="rez_cmp_local_textarea_DescriptionLabel" stackId="3" startPc="268440732"/>
+        <entry arg="true" endPc="268442978" name="dc" stackId="1" startPc="268441066"/>
+        <entry endPc="268442978" name="rez_cmp_local_bitmap_icon" stackId="2" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_NameLabel" stackId="3" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_DetailLbl1" stackId="4" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_DurationLabel" stackId="5" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_DetailLbl2" stackId="6" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_TextLabel" stackId="7" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_DetailLbl3" stackId="8" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_ProgressionLevelLabel" stackId="9" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_DetailLbl4" stackId="10" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_TSSLabel" stackId="11" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_DetailLbl5" stackId="12" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_KjLabel" stackId="13" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_NowLabel" stackId="14" startPc="268441078"/>
+        <entry endPc="268442978" name="rez_cmp_local_text_ErrorLabel" stackId="15" startPc="268441078"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="icon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LoadingIcon"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/TrainerRoadWorkoutApp" offset="230" parentId="globals" symbolId="TrainerRoadWorkoutApp" type="class"/>
+        <dataEntry label="globals/TrainerRoadWorkoutDelegate" offset="325" parentId="globals" symbolId="TrainerRoadWorkoutDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="420" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/TrainerRoadWorkoutView" offset="499" parentId="globals" symbolId="TrainerRoadWorkoutView" type="class"/>
+        <dataEntry label="globals/TrainerRoadDetailsDelegate" offset="706" parentId="globals" symbolId="TrainerRoadDetailsDelegate" type="class"/>
+        <dataEntry label="globals/TrainerRoadWorkoutWebReq" offset="761" parentId="globals" symbolId="TrainerRoadWorkoutWebReq" type="class"/>
+        <dataEntry label="globals/TrainerRoadDetailsView" offset="840" parentId="globals" symbolId="TrainerRoadDetailsView" type="class"/>
+        <dataEntry label="globals/TrainerRoadDetailsMenu" offset="935" parentId="globals" symbolId="TrainerRoadDetailsMenu" type="class"/>
+        <dataEntry label="globals/TrainerRoadDetailsMenuDelegate" offset="1014" parentId="globals" symbolId="TrainerRoadDetailsMenuDelegate" type="class"/>
+        <dataEntry label="globals/TrainerRoadDetailsMenuItem" offset="1077" parentId="globals" symbolId="TrainerRoadDetailsMenuItem" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1148" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1203" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1250" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1281" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1312" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1351" parentId="Rez" symbolId="JsonData" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435525" name="pushTrainerRoadWorkoutView" startPc="268435460">
+            <documentation><![CDATA[<div class="description"> Create the Images custom menu<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435544" name="&lt;init&gt;" parent="TrainerRoadWorkoutApp" startPc="268435526">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435547" name="onStart" parent="TrainerRoadWorkoutApp" startPc="268435545">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435573" name="onSettingsChanged" parent="TrainerRoadWorkoutApp" startPc="268435548">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435700" name="getInitialView" parent="TrainerRoadWorkoutApp" startPc="268435574">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435721" name="initialize" parent="TrainerRoadWorkoutApp" startPc="268435701">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435724" name="onStop" parent="TrainerRoadWorkoutApp" startPc="268435722">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435743" name="&lt;init&gt;" parent="TrainerRoadWorkoutDelegate" startPc="268435725">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435785" name="onBack" parent="TrainerRoadWorkoutDelegate" startPc="268435744">
+            <documentation><![CDATA[<div class="description"> Handle going back<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435835" name="onPreviousPage" parent="TrainerRoadWorkoutDelegate" startPc="268435786">
+            <documentation><![CDATA[<div class="description"> Handle going to the previous view<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435876" name="initialize" parent="TrainerRoadWorkoutDelegate" startPc="268435836">
+            <param id="index"/>
+            <param id="view"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> index The current page index</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435926" name="onNextPage" parent="TrainerRoadWorkoutDelegate" startPc="268435877">
+            <documentation><![CDATA[<div class="description"> Handle going to the next view<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436056" name="onSelect" parent="TrainerRoadWorkoutDelegate" startPc="268435927">
+            <documentation><![CDATA[<div class="description"> On select behavior show the detail view<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436082" name="getApp" startPc="268436057">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436106" name="&lt;init&gt;" parent="Rez" startPc="268436083">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436335" name="&lt;init&gt;" parent="TrainerRoadWorkoutView" startPc="268436107">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436407" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;loadWorkout&gt;" parent="TrainerRoadWorkoutView" startPc="268436336">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436430" name="onShow" parent="TrainerRoadWorkoutView" startPc="268436408">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436540" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;stringReplace&gt;" parent="TrainerRoadWorkoutView" startPc="268436431">
+            <param id="str"/>
+            <param id="oldString"/>
+            <param id="newString"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436742" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;cleanupString&gt;" parent="TrainerRoadWorkoutView" startPc="268436541">
+            <param id="text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436805" name="onLayout" parent="TrainerRoadWorkoutView" startPc="268436743">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436950" name="webReq" parent="TrainerRoadWorkoutView" startPc="268436806">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437180" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;renderDictionary&gt;" parent="TrainerRoadWorkoutView" startPc="268436951">
+            <param id="workout"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437630" name="onReceive" parent="TrainerRoadWorkoutView" startPc="268437181">
+            <param id="args"/>
+            <documentation><![CDATA[<div class="description"> Show the result or status of the web request<br/> <div class="param"> args Data from the web request, or error message</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437662" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;saveWorkout&gt;" parent="TrainerRoadWorkoutView" startPc="268437631">
+            <param id="workout"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437908" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;extractWorkoutParameters&gt;" parent="TrainerRoadWorkoutView" startPc="268437663">
+            <param id="workout"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438255" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;setLabel&gt;" parent="TrainerRoadWorkoutView" startPc="268437909">
+            <param id="key"/>
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438336" name="initialize" parent="TrainerRoadWorkoutView" startPc="268438256">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438689" name="onUpdate" parent="TrainerRoadWorkoutView" startPc="268438337">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438822" name="&lt;globals/TrainerRoadWorkoutView/&lt;&gt;secToHMS&gt;" parent="TrainerRoadWorkoutView" startPc="268438690">
+            <param id="val"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438841" name="&lt;init&gt;" parent="TrainerRoadDetailsDelegate" startPc="268438823">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438867" name="onBack" parent="TrainerRoadDetailsDelegate" startPc="268438842">
+            <documentation><![CDATA[<div class="description"> Handle back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438888" name="initialize" parent="TrainerRoadDetailsDelegate" startPc="268438868">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="TrainerRoadWorkoutWebReq">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438901" name="initialize" parent="TrainerRoadWorkoutWebReq" startPc="268438889">
+            <param id="handler"/>
+            <documentation><![CDATA[<div class="description"> Set up the callback to the view<br/> <div class="param"> handler Callback method for when data is received</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439080" name="onReceive" parent="TrainerRoadWorkoutWebReq" startPc="268438902">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation><![CDATA[<div class="description"> Receive the data from the web request<br/> <div class="param"> responseCode The server response code</div><br/> <div class="param"> data Content from a successful request</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439587" name="makeRequest" parent="TrainerRoadWorkoutWebReq" startPc="268439081">
+            <param id="index"/>
+            <documentation><![CDATA[<div class="description"> Make the web request<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439606" name="&lt;init&gt;" parent="TrainerRoadDetailsView" startPc="268439588">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="TrainerRoadDetailsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439609" name="onLayout" parent="TrainerRoadDetailsView" startPc="268439607">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439640" name="initialize" parent="TrainerRoadDetailsView" startPc="268439610">
+            <param id="description"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="TrainerRoadDetailsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439719" name="onUpdate" parent="TrainerRoadDetailsView" startPc="268439641">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439738" name="&lt;init&gt;" parent="TrainerRoadDetailsMenu" startPc="268439720">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439876" name="initialize" parent="TrainerRoadDetailsMenu" startPc="268439739">
+            <param id="name"/>
+            <param id="itemHeight"/>
+            <param id="backgroundColor"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> itemHeight The pixel height of menu items rendered by this menu</div><br/> <div class="param"> backgroundColor The color for the menu background</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440048" name="drawTitle" parent="TrainerRoadDetailsMenu" startPc="268439877">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Draw the menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440067" name="&lt;init&gt;" parent="TrainerRoadDetailsMenuDelegate" startPc="268440049">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440091" name="onBack" parent="TrainerRoadDetailsMenuDelegate" startPc="268440068">
+            <documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440112" name="initialize" parent="TrainerRoadDetailsMenuDelegate" startPc="268440092">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440131" name="onSelect" parent="TrainerRoadDetailsMenuDelegate" startPc="268440113">
+            <param id="item"/>
+            <documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440150" name="&lt;init&gt;" parent="TrainerRoadDetailsMenuItem" startPc="268440132">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440189" name="initialize" parent="TrainerRoadDetailsMenuItem" startPc="268440151">
+            <param id="id"/>
+            <param id="description"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> id The identifier for this item</div><br/> <div class="param"> label Text to display</div><br/> <div class="param"> bitmap Color of the text</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440294" name="draw" parent="TrainerRoadDetailsMenuItem" startPc="268440190">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Draw the item's label and bitmap<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440584" name="&lt;globals/TrainerRoadDetailsMenuItem/&lt;&gt;wrapText&gt;" parent="TrainerRoadDetailsMenuItem" startPc="268440295">
+            <param id="dc"/>
+            <param id="text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440719" name="pushTrainerRoadDetailsMenu" startPc="268440585">
+            <param id="name"/>
+            <param id="description"/>
+            <documentation><![CDATA[<div class="description"> Create the Images custom menu<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441065" name="DetailsLayout" parent="Layouts" startPc="268440720">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442978" name="MainLayout" parent="Layouts" startPc="268441066">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

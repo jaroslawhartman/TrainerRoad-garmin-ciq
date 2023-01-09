@@ -1,0 +1,13 @@
+<layout id="DetailsLayout">
+    <!-- <bitmap id="id_monkey" x="center" y="2%" filename="../drawables/loading.png" /> -->
+    <bitmap id="icon" x="center" y="2%" filename="../drawables/launcher_icon.png" />
+    <!-- <label id="NameLabel" text="..." x="center" y="12%" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" /> -->
+    <text-area id="DescriptionLabel" text="" width="90%" height="95%" x="center" y="17%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY">
+    <!-- <text-area id="DescriptionLabel" text="" width="95%" height="95%" x="0%" y="15%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_GRAY"> -->
+        <fonts>
+            <font>Gfx.FONT_MEDIUM</font>
+            <!-- <font>Gfx.FONT_TINY</font> -->
+            <!-- <font>Gfx.FONT_XTINY</font> -->
+        </fonts>
+    </text-area>
+</layout>

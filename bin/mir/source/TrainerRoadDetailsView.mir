@@ -1,0 +1,70 @@
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 1; ]
+import Toybox.Graphics;
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 2; ]
+import Toybox.Lang;
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 3; ]
+import Toybox.WatchUi;
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 5; ]
+class TrainerRoadDetailsView extends WatchUi.View{
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 6; @position = 16; ]
+    private
+    var _descriptionLabel as Text or Null;
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 7; @position = 16; ]
+    private
+    var _description as String;
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 9; ]
+    public
+    function initialize(description as String) as Void {
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsView_mc_9_54_start:
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" 10 8 ]
+        %tmp.2 = lgetv %description;
+        %tmp.3 = as %tmp.2 String;
+        putv self :_description %tmp.3;
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" 11 8 ]
+        %tmp.5 = getv ? :View;
+        %tmp.6 = getv function %tmp.5 :initialize;
+        invoke %tmp.5 %tmp.6();
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsView_mc_9_54_stop:
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 15; ]
+    function onLayout(dc as Dc) as Void {
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 22; ]
+    function onShow() as Void {
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 26; ]
+    function onUpdate(dc as Dc) as Void {
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsView_mc_26_40_start:
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" 32 8 ]
+        %tmp.2 = getv ? :View;
+        %tmp.3 = getv function %tmp.2 :findDrawableById;
+        %tmp.4 = "DescriptionLabel";
+        %tmp.5 = invoke %tmp.2 %tmp.3(%tmp.4);
+        %tmp.6 = as %tmp.5 Text;
+        putv self :_descriptionLabel %tmp.6;
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" 33 8 ]
+        %tmp.8 = getv ? :_descriptionLabel;
+        %tmp.9 = getv function %tmp.8 :setText;
+        %tmp.11 = getv ? :_description;
+        invoke %tmp.8 %tmp.9(%tmp.11);
+[ "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc" 36 8 ]
+        %tmp.13 = getv ? :View;
+        %tmp.14 = getv function %tmp.13 :onUpdate;
+        %tmp.16 = lgetv %dc;
+        invoke %tmp.13 %tmp.14(%tmp.16);
+_Users_jhartman_Downloads_Garmin_ConnectIQ_TrainerRoadWorkout_source_TrainerRoadDetailsView_mc_26_40_stop:
+    }
+    [ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 42; ]
+    function onHide() as Void {
+    }
+}
+[ @file = "/Users/jhartman/Downloads/Garmin ConnectIQ/TrainerRoadWorkout/source/TrainerRoadDetailsView.mc"; @line = 1; ]
+<init> {
+}
