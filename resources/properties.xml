@@ -5,14 +5,12 @@
     </properties>
 
     <settings>
-        <group id="Credentials" title="TrainerRoad account">
-            <setting propertyKey="@Properties.username_prop" title="Username" prompt="You must set TrainerRoad username!">
-                <settingConfig type="alphaNumeric" required="true"/>
-            </setting>
+        <setting propertyKey="@Properties.username_prop" title="Username" prompt="You must set TrainerRoad username!">
+            <settingConfig type="alphaNumeric" required="true"/>
+        </setting>
 
-            <!-- <setting propertyKey="@Properties.password_prop" title="Password (not used)">
-                <settingConfig type="password" />
-            </setting> -->
-        </group>
+        <!-- <setting propertyKey="@Properties.password_prop" title="Password (not used)">
+            <settingConfig type="password" />
+        </setting> -->
     </settings>
 </resources>

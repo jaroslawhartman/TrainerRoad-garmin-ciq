@@ -62,8 +62,9 @@ class TrainerRoadWorkoutWebReq {
     //! @param responseCode The server response code
     //! @param data Content from a successful request
     public function onReceive(responseCode as Number, data as Dictionary<String, Object?> or String or Null) as Void {
-        (data as Array<Dictionary<String, Object?>>).add({"Now" => _now});
+
         if (responseCode == 200) {
+            (data as Array<Dictionary<String, Object?>>).add({"Now" => _now});
             _notify.invoke(data);
         } else {
             var response = responseCode.toString();
