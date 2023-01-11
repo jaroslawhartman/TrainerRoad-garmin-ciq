@@ -16,7 +16,7 @@ After installation should be visible in your Widgets carousel. Single tap to ena
 
 ## From Garmin ConnectIQ store
 
-<Not published yet>
+Get from [Garmin App Store](https://apps.garmin.com/en-US/apps/928e99b2-11fe-4950-9a01-21439f0c7472).
 
 ## Build from the source
 
