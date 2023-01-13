@@ -74,6 +74,9 @@ class TrainerRoadWorkoutWebReq {
             if(response.equals("404")) {
                 response = "User not set";
             }
+            if(response.equals("403")) {
+                response = "Private";
+            }
             System.println("Error " + response);
             _notify.invoke({"Error" => "Err: " + response});
         }
