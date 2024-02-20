@@ -29,6 +29,13 @@ Select your device:
 Debug (or Release - does not matter)
 ![build3](images/build/build3.png)
 
+* ConnectIQ simulator
+
+In VisualStudio Code navigate to `bin/TrainerRoadgarminciq.prg` and from the menu select Run -> Start Debugging.
+
+Set your username in Application Properties:
+![properties](images/properties.png)
+
 * Upload the file into your Watch
 
 Connect the watch to your PC using USB cable and copy into `GARMIN/APP` folder.
@@ -39,7 +46,7 @@ Connect the watch to your PC using USB cable and copy into `GARMIN/APP` folder.
 
 **Note:** Privacy settings in [TrainerRoad](https://www.trainerroad.com/app/profile/rider-information) must be set to *Public*:
 
-![](images/privacy.png)
+![privacy](images/privacy.png)
 
 After installation you need to set your TrainerRoad account name.
 
@@ -47,16 +54,15 @@ After installation you need to set your TrainerRoad account name.
 
 ![](images/settings.png)
 
-* Self-built app
+# Release to Garmin App Store
 
-There is a way to set your username in the Simulator then copy the file to your watch but much easier is just go to `resources/properties.xml` and set the default i.e. set it instead of `jhartman`:
+## Choose supported devices
 
-```xml
-<resources>
-    <properties>
-        <property id="username_prop" type="string">jhartman</property>
-        <property id="password_prop" type="string"></property>
-    </properties>
-```
+In VisualStudio Code select `Monkey C: Edit Products`:
 
+![release1](images/release/release1.png)
+
+![release2](images/release/release2.png)
+
+Then Export Project to build for all supported devices.
 
