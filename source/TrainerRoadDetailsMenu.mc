@@ -13,7 +13,7 @@ function pushTrainerRoadDetailsMenu(name as String, description as String) as Vo
 //! This is the Images custom menu, which shows an
 //! image and text for each item
 class TrainerRoadDetailsMenu extends WatchUi.CustomMenu {
-    private var _name as String;
+    // private var _name as String;
     private var _icon as BitmapResource;
     private var _iconOffset as Number;
 
@@ -21,7 +21,7 @@ class TrainerRoadDetailsMenu extends WatchUi.CustomMenu {
     //! @param itemHeight The pixel height of menu items rendered by this menu
     //! @param backgroundColor The color for the menu background
     public function initialize(name as String, itemHeight as Number, backgroundColor as ColorType) {
-        _name = name;
+        // _name = name;
         _icon = WatchUi.loadResource($.Rez.Drawables.LauncherIcon) as BitmapResource;
         _iconOffset = -1 - _icon.getWidth() / 2;
         CustomMenu.initialize(itemHeight, backgroundColor, {:titleItemHeight => 150});
