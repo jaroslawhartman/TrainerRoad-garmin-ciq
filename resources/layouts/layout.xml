@@ -1,6 +1,6 @@
 <layout id="MainLayout">
     <!-- <bitmap id="icon" x="center" y="2%" filename="../drawables/launcher_icon.png" /> -->
-    <bitmap id="icon" x="center" y="2%" filename="../drawables/launcher_icon.png" />
+    <bitmap id="icon" x="42%" y="2%" filename="../drawables/icon.png" />
     <label id="NameLabel" text="---" x="center" y="15%" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
 
     <label id="DetailLbl1" text="Duration"        x="48%" y="32%" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" color="Gfx.COLOR_LT_GRAY" />
