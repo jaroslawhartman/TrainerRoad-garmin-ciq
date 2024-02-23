@@ -1,4 +1,5 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
-    <bitmap id="LoadingIcon" filename="loading.png" />
+    <bitmap id="Icon" filename="icon.png" scaleRelativeTo="screen" scaleX="15%" scaleY="15%"/>
+    <bitmap id="LoadingIcon" filename="loading.png" scaleRelativeTo="screen" scaleX="15%" scaleY="15%" />
 </drawables>

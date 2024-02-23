@@ -69,10 +69,10 @@ class TrainerRoadWorkoutView extends WatchUi.View {
         dc.drawLine(dc.getWidth()/2, dc.getHeight()*0.33, dc.getWidth()/2, dc.getHeight()*0.81);
 
         if(! initial) {
-            dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_BLACK);
-            dc.fillCircle(dc.getWidth()/2+9, dc.getWidth()-6, 2);
-            dc.fillCircle(dc.getWidth()/2-1, dc.getWidth()-6, 2);
-            dc.fillCircle(dc.getWidth()/2-10, dc.getWidth()-6, 2);
+        dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_BLACK);
+        dc.fillCircle(dc.getWidth()/2+9, dc.getWidth()-6, 2);
+        dc.fillCircle(dc.getWidth()/2-1, dc.getWidth()-6, 2);
+        dc.fillCircle(dc.getWidth()/2-10, dc.getWidth()-6, 2);
         }
     }
 
@@ -248,7 +248,7 @@ class TrainerRoadWorkoutView extends WatchUi.View {
     //! @param args Data from the web request, or error message
     public function onReceive(args as Dictionary or String or Null) as Void {
         var icon = View.findDrawableById("icon") as Bitmap;
-        icon.setBitmap(Rez.Drawables.LauncherIcon);
+        icon.setBitmap(Rez.Drawables.Icon);
 
         if (args instanceof String) {
             System.println("onReceived -- String: " + args);

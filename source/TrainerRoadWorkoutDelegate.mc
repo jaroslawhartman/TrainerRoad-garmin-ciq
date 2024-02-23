@@ -39,6 +39,8 @@ class TrainerRoadWorkoutDelegate extends WatchUi.BehaviorDelegate {
             $.pushTrainerRoadWorkoutView();
         } else {
             if(! _view.description.equals("")) {
+                // var view = new $.TrainerRoadDetailsView("xxx");
+                // WatchUi.pushView(view, new $.TrainerRoadDetailsMenuDelegate(), WatchUi.SLIDE_RIGHT);
                 $.pushTrainerRoadDetailsMenu("Workout", _view.description);
                 return false;
             }

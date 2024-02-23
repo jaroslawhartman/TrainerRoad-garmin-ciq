@@ -5,7 +5,7 @@ import Toybox.WatchUi;
 
 //! Create the Images custom menu
 function pushTrainerRoadDetailsMenu(name as String, description as String) as Void {
-    var customMenu = new $.TrainerRoadDetailsMenu(name, 450, Graphics.COLOR_BLACK);
+    var customMenu = new $.TrainerRoadDetailsMenu(name, 250, Graphics.COLOR_BLACK);
     customMenu.addItem(new $.TrainerRoadDetailsMenuItem(:description, description));
     WatchUi.pushView(customMenu, new $.TrainerRoadDetailsMenuDelegate(), WatchUi.SLIDE_RIGHT);
 }
@@ -22,7 +22,7 @@ class TrainerRoadDetailsMenu extends WatchUi.CustomMenu {
     //! @param backgroundColor The color for the menu background
     public function initialize(name as String, itemHeight as Number, backgroundColor as ColorType) {
         // _name = name;
-        _icon = WatchUi.loadResource($.Rez.Drawables.LauncherIcon) as BitmapResource;
+        _icon = WatchUi.loadResource($.Rez.Drawables.Icon) as BitmapResource;
         _iconOffset = -1 - _icon.getWidth() / 2;
         CustomMenu.initialize(itemHeight, backgroundColor, {:titleItemHeight => 150});
     }
