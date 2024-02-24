@@ -66,3 +66,10 @@ In VisualStudio Code select `Monkey C: Edit Products`:
 
 Then Export Project to build for all supported devices.
 
+# Support
+
+Your support on Buy Me a Coffee is invaluable, motivating me to continue crafting bytes that matters – thank you sincerely 👍
+
+<a href="https://www.buymeacoffee.com/jhartman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
