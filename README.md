@@ -1,6 +1,6 @@
 # Background
 
-This small ConnectIQ Widget for Garmin Smart Watches allows you to check your TrainerRoad workout.
+**TrainingRegime** is a small ConnectIQ Widget for Garmin Smart Watches allows you to check your [TrainerRoad](https://www.trainerroad.com/) workout.
 
 <p align="center">
     <img src="images/watch1.png" width="400">
